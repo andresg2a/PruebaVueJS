@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+El archivo "PruebaLogica.py" es la prueba logica, este se ejecuta desde Terminal. 
